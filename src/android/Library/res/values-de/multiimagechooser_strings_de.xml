@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="multi_app_name">MultiImageChooser</string>
-    <string name="free_version_label">Kostenlose Version - Sie können noch %d Bilder wählen</string>
+    <string name="free_version_label">Kostenlose Version - Sie können maximal %d Bilder wählen</string>
     <string name="error_database">Beim Öffnen der Bilder-Datenbank kam es zu einem Fehler.</string>
     <string name="requesting_thumbnails">Lade Vorschaubilder, bitte warten</string>
     <string name="processing_images_header">Verarbeite Bildauswahl</string>
